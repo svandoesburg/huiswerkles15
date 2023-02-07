@@ -2,7 +2,6 @@
 body {
   background: #A9A9A9;
   color: #444;
-  align: center;
 }
 h1,h2,h3,h4,h5,h6 {
 color: #444;
@@ -11,7 +10,6 @@ line-height: 1;
 img{
   width: 200px;
   height: 100px;
-    align: center;
         margin: 10px;
 }
 #header{
@@ -45,7 +43,7 @@ border-style: none;
 #class1 {
   background-color: #7D5309;
   width: 400px;
-    align: center;
+  text-align: center;
     margin: 10px
 }
 table{
